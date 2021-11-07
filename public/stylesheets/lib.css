@@ -119,3 +119,13 @@ main {
 .new-comment input[type="text"] {
   width: 100%;
 }
+
+footer {
+  text-align: center; 
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+
+  
+}
