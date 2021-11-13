@@ -1,0 +1,34 @@
+header {
+    background-color:pink;  
+}
+
+header h1 {
+    text-align: center;
+}
+
+body {
+    background-color:whitesmoke;
+    font-family: "Montagu Slab";
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+.finstagram-post {
+    margin-bottom: 55px;
+}
+
+.finstagram-post .user-info img {
+    border-radius: 10%;
+}
+
+a.photo {
+    transition: padding 0.5s;
+}
+
+a.photo:hover {
+    padding: 10px;
+    background-color: turquoise;   
+}
