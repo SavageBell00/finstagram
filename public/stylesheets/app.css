@@ -6,9 +6,12 @@ header h1 {
     text-align: center;
 }
 
-body {
-    background-color:whitesmoke;
+body {    
     font-family: "Montagu Slab";
+    background-image: url(../images/sharkfin.gif);    
+    background-repeat: repeat;
+    background-size: contain;
+    background-color:pink;
 }
 
 main {
