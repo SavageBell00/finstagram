@@ -4,6 +4,7 @@ header {
 
 header h1 {
     text-align: center;
+    font-size: 1.5em;
 }
 
 body {    
@@ -17,6 +18,7 @@ body {
 main {
     background-color: white;
     padding: 16px;
+    width: 100%;
 }
 
 .finstagram-post {
